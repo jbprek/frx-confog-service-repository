@@ -1,0 +1,7 @@
+server:
+  port: 8081
+
+fixer:
+  connect:
+    url: http://data.fixer.io/
+    api_key: 3ca8dbc1d87ba686ab52f81910cd0012
